@@ -1,0 +1,17 @@
+h3{
+    font-family: 'Roboto', sans-serif;
+    color: gray;
+    position: fixed;
+    bottom:29rem;
+    right: 35.4rem;
+}
+section{
+    background-color: white;
+    border: solid 0.1rem rgba(0, 0, 0, 0.562);
+    position: fixed;
+    bottom:12rem;
+    right: 34rem;
+    width:20rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}

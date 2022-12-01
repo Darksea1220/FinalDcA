@@ -1,0 +1,15 @@
+.perfil{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-right: 1rem;
+}
+.picture{
+    max-width: 2.8rem;
+    max-height: 2.8rem;
+    border-radius: 100%;
+}
+p{
+    font-family: 'Rubik', sans-serif;
+    font-size: 7px;
+}

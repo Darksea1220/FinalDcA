@@ -1,0 +1,59 @@
+.suggestions{
+    position: absolute;
+    top:7.8rem;
+    left:50rem;
+    scale: 1.25;
+}
+p{
+    font-family: 'Rubik', sans-serif;
+    font-size: 10px;
+    padding: auto;
+}
+.cambiar{
+    color: rgb(59, 59, 255);
+    margin-left: 5rem;
+}
+.mid{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 0.3rem;
+    margin-bottom: 0.3rem;
+}
+.spt{
+    color: grey;
+    font-size: 11px;
+}
+.vt{
+    margin-right: -3.5rem;
+}
+.theuser{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.igprofile{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-bottom: 0.3rem;
+}
+.iglogo{
+    max-width: 1.5rem;
+    max-height: 1.5rem;
+    border-radius: 100%;
+    margin-right: 0.5rem;
+}
+.igname{
+    display: flex;
+    flex-direction: column;
+    margin-right: -0.5rem;
+}
+.nameig{
+    font-family: 'Rubik', sans-serif;
+    font-size: 10px;
+    padding: auto;
+}
+#ioa{
+    color: grey;
+}

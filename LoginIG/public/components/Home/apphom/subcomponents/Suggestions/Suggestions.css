@@ -1,0 +1,41 @@
+p{
+    font-family: 'Rubik', sans-serif;
+    font-size: 10px;
+    padding: auto;
+}
+.cambiar{
+    color: rgb(59, 59, 255);
+    margin-left: 4.2rem;
+}
+.spt{
+    color: grey;
+    font-size: 11px;
+}
+.vt{
+    margin-right: -3.5rem;
+}
+.igprofile{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.iglogo{
+    max-width: 1.5rem;
+    max-height: 1.5rem;
+    border-radius: 100%;
+    margin-right: 0.5rem;
+    margin-bottom: 1rem;
+}
+.igname{
+    display: flex;
+    flex-direction: column;
+    margin-right: -0.5rem;
+}
+.nameig{
+    font-family: 'Rubik', sans-serif;
+    font-size: 10px;
+    padding: auto;
+}
+#ioa{
+    color: grey;
+}

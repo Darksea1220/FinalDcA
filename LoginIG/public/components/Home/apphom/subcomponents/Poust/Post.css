@@ -1,0 +1,97 @@
+ section{
+    display: flex;
+    flex-direction:column;
+    justify-content: left;
+    align-items: center;
+} 
+.base{
+    margin-top: 1rem;
+    border: 1px solid rgb(155, 155, 155);
+    width: 25.1rem;
+    border-radius: 2%;
+    position: relative;
+    top:1rem;
+    left:-8.6rem;
+}
+.head{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom:2px;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+.profile{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 5px;
+}
+.photo{
+    border-radius: 100%;
+    max-width: auto;
+    max-height: 40px;
+}
+#name{
+    display: flex;
+    flex-direction: column;
+    padding:5px;
+}
+.nam{
+    max-height: 25px;
+    font-family: 'Nunito', sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+}
+#dir{
+    color: rgb(160, 160, 160);
+    font-size: 10px;
+}
+.dots{
+    display: flex;
+    justify-content: flex-end;
+}
+.post{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 10px;
+}
+.ppost{
+    width: 365px;
+    height: 365px;
+}
+.icons{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 5px;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+.space{
+    margin-left:0.5rem;
+    margin-right:0.5rem;
+}
+.position{
+    margin-left: -4.5rem;
+}
+.comments{
+    margin-bottom:20px;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+.footer{
+    font-size:13px;
+    margin-bottom:-5px;
+    font-family: 'Nunito', sans-serif
+}
+.descrip{
+    color: rgb(160, 160, 160);
+    font-size:13px;
+    margin-bottom:-5px;
+    font-family: 'Nunito', sans-serif
+}
